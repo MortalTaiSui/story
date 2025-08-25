@@ -1,5 +1,6 @@
-# 人间太岁（MortalTaiSui） | 渡亡堂
 ![Hero Image](./images/人间太岁封面.jpeg)
+# 人间太岁（MortalTaiSui） | 渡亡堂
+
 ### History is a lie. This is what truly happened.
 
 ---
